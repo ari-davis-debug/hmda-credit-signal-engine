@@ -146,7 +146,7 @@ the same signal — pushed into the client's CRM — kept selling long after the
 | **Meeting rate after** | **5%** |
 | Time to see lift | 2 weeks |
 | Meetings booked | ~300 |
-| Pipeline generated | ~$20M |
+| Pipeline generated | ~$4–5M |
 
 A/B tested against control groups, with pre-committed kill/park/scale gates on reply-rate
 thresholds.
