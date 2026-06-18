@@ -1,0 +1,14 @@
+# secrets / config
+.env
+*.key
+
+# the credit map is rebuildable from public APIs — never commit derived data or lists
+data/credit_map.csv
+data/*.csv
+*.parquet
+
+# python
+__pycache__/
+*.pyc
+.venv/
+venv/

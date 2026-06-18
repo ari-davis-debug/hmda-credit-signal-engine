@@ -1,0 +1,8 @@
+# HMDA Credit-Signal Engine — Python deps (reference implementation)
+requests>=2.31          # FFIEC / Census / Cloudflare API calls
+pandas>=2.1             # build + join the national credit map
+apify-client>=1.6       # ICP scraping by ZIP
+supabase>=2.4           # system of record (Postgres)
+anthropic>=0.39         # LLM personalization pipeline
+python-dotenv>=1.0      # config / secrets
+tenacity>=8.2           # ret/backoff on flaky public APIs
